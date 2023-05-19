@@ -15,7 +15,7 @@ h1.setAttribute("class","text-bg-primary p-3");
 
 
 var p=document.createElement("p");
-p.innerHTML="Both Suit and Value matches 3 pts, Only Value matches 2pts, Only Suit matches 1pts";
+p.innerHTML="Both Suit and Value matches 5 pts, Only Value matches 2pts, Only Suit matches 1pts";
 
 
 p.style.textAlign="center";
